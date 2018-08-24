@@ -1,0 +1,16 @@
+<root>
+ <intervals>
+   <interval>
+     <low>10</low>
+     <high>20</high>
+   </interval>
+   <interval>
+      <low>70</low>
+      <high>100</high>
+    </interval>
+<interval>
+      <low>150</low>
+      <high>200</high>
+    </interval>
+  </intervals>
+</root>
